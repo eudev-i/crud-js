@@ -1,0 +1,11 @@
+body {
+  font-family: Abel, sans-serif;
+}
+.card {
+  background: rgba(255, 255, 255, 0.6);
+  box-shadow: 0px 0px 8px #333;
+}
+.container {
+  background: rgba(255, 255, 255, 0.7);
+  padding: 20px;
+}
